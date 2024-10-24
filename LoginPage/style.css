@@ -1,0 +1,26 @@
+div{
+    height: 400px;
+    width:400px;
+    margin-left: 40%;
+    font-size:3rem;
+
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 50px 0px;
+    box-shadow:  -10px -10px 10px lightblue;
+    background-color:rgb(70%, 80%, 250%);
+
+}
+
+h1{
+    text-align: center;
+    font-size: 7rem;
+    color:red,green,blue,black(20%30%30%20%);
+    background-color: azure;
+
+}
+
+/* *{
+    background-color: antiquewhite;
+} */
+}
